@@ -1,4 +1,10 @@
-https://www.linkedin.com/in/dario-elguero/
+<p align="center">
+<a href="https://www.linkedin.com/in/dario-elguero">
+<img src="https://pcdn.sharethis.com/wp-content/uploads/2019/04/LinkedInlarge.png" width="25" alt="accessibility text"> Dario Elguero
+</a>
+  <a href="mailto:darioelguero@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" width="25" alt="accessibility text">darioelguero@gmail.com</a>
+</p>
+  
 <h3>Lenguajes Informaticos</h3>
 • HTML
 • CSS
