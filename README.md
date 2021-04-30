@@ -1,3 +1,4 @@
+<h1>Lenguajes Informaticos<h1>
 • HTML
 • CSS
 • React
@@ -8,6 +9,17 @@
 • PostgreSQL
 • Express
 • Visual Basic
+• Wordpress
+• AppInventor2
+<h1>Diseño<h1>
+• Ilustrator
+• Photoshop
+• After Effect
+  <h1>Base de Datos<h1>
+• Firebase
+• Access
+• MySql
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69209369/116448732-d1b28900-a82f-11eb-942c-025060103d98.png" width="50" alt="accessibility text">
   &nbsp;
