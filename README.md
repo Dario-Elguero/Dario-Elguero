@@ -1,4 +1,13 @@
-### Hi there 👋
+• HTML
+• CSS
+• React
+• Redux
+• NodeJs
+• SQL
+• Sequelize
+• PostgreSQL
+• Express
+• Visual Basic
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69209369/116448732-d1b28900-a82f-11eb-942c-025060103d98.png" width="50" alt="accessibility text">
   &nbsp;
