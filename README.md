@@ -1,3 +1,4 @@
+https://www.linkedin.com/in/dario-elguero/
 <h3>Lenguajes Informaticos</h3>
 • HTML
 • CSS
