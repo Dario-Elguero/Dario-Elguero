@@ -1,4 +1,4 @@
-<h1>Lenguajes Informaticos</h1>
+<h3>Lenguajes Informaticos</h3>
 • HTML
 • CSS
 • React
@@ -11,11 +11,11 @@
 • Visual Basic
 • Wordpress
 • AppInventor2
-<h1>Diseño</h1>
+<h3>Diseño</h3>
 • Ilustrator
 • Photoshop
 • After Effect
-  <h1>Base de Datos</h1>
+  <h3>Base de Datos</h3>
 • Firebase
 • Access
 • MySql
