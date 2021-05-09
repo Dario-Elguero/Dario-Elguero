@@ -8,6 +8,7 @@
 <h3>Lenguajes Informaticos</h3>
 • HTML
 • CSS
+• JavaScript
 • React
 • Redux
 • NodeJs
