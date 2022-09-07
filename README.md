@@ -9,9 +9,13 @@
 • HTML
 • CSS
 • JavaScript
+• Typescript
 • React
 • Redux
+• Vuejs3
+• Nuxtjs
 • NodeJs
+• GraphQL
 • SQL
 • Sequelize
 • PostgreSQL
